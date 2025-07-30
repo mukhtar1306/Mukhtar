@@ -182,3 +182,6 @@
 </body>
 </htm
   l>
+
+<img src="your-image-link.jpg" alt="Advertisement Image" class="ad">
+
